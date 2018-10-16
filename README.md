@@ -9,6 +9,6 @@ Identity implementation for Ethereum/RSK. WIP.
 - [ERC725: A Self-Sovereign Identity Standard For Ethereum](https://www.ethnews.com/erc725-a-self-sovereign-identity-standard-for-ethereum)
 - [ERC 725 Demo implementation by Origin](https://erc725.originprotocol.com/#/)
 - [Origin Identity Playground](https://github.com/OriginProtocol/origin-playground)
-
+- [Blockchain allows a true digital identity based on reputation | Bernd Lapp | TEDxLausanne](https://www.youtube.com/watch?v=DT_I9VxwTlI&feature=youtu.be)
 
 
