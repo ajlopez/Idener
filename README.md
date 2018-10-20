@@ -10,5 +10,5 @@ Identity implementation for Ethereum/RSK. WIP.
 - [ERC 725 Demo implementation by Origin](https://erc725.originprotocol.com/#/)
 - [Origin Identity Playground](https://github.com/OriginProtocol/origin-playground)
 - [Blockchain allows a true digital identity based on reputation | Bernd Lapp | TEDxLausanne](https://www.youtube.com/watch?v=DT_I9VxwTlI&feature=youtu.be)
-
+- [ERC725 Proposed Changes](https://medium.com/@tyleryasaka/erc725-proposed-changes-ea2dc221136e)
 
