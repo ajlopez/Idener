@@ -29,7 +29,7 @@ contract('ClaimHolder', function (accounts) {
             "url"
         );
         
-        const claimId = web3.sha3(accounts[0].toString() + '01');
+        const claimId = web3.sha3(accounts[0].toString().slice(2) + '0000000000000000000000000000000000000000000000000000000000000001', { encoding: 'hex' });
 
         var result = await this.claimHolder.getClaim(claimId);
 
