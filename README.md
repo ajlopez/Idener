@@ -24,4 +24,4 @@ Identity implementation for Ethereum/RSK. WIP.
 - [How Blockchain Can Solve Identity Management Problems](https://www.forbes.com/sites/forbestechcouncil/2018/07/27/how-blockchain-can-solve-identity-management-problems/#516abb1313f5)
 - [Blockchain for Identity: Too Good to Be True?](http://fortune.com/2018/08/13/blockchain-identity/)
 - [Blockchain Identity Management: Sparking a Data Security Revolution](https://www.toptal.com/insights/innovation/blockchain-identity-management)
-
+- [Self-sovereign Identity](https://www.bundesblock.de/wp-content/uploads/2018/10/ssi-paper.pdf)
