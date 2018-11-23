@@ -25,3 +25,5 @@ Identity implementation for Ethereum/RSK. WIP.
 - [Blockchain for Identity: Too Good to Be True?](http://fortune.com/2018/08/13/blockchain-identity/)
 - [Blockchain Identity Management: Sparking a Data Security Revolution](https://www.toptal.com/insights/innovation/blockchain-identity-management)
 - [Self-sovereign Identity](https://www.bundesblock.de/wp-content/uploads/2018/10/ssi-paper.pdf)
+- [Web of Trust](https://www.weboftrust.info/)
+- [The Path to Self-Sovereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)
