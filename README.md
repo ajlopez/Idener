@@ -4,6 +4,10 @@ Identity implementation for Ethereum/RSK. WIP.
 
 ## References
 
+### Identity
+
+- [Your robot needs a passport](https://www.wired.co.uk/article/robot-passport)
+
 ### Ethereum Identity
 
 - [A proxy contract for key management and execution, to establish a Blockchain identity](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-725.md)
