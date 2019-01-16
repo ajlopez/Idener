@@ -24,8 +24,8 @@ contract('ClaimHolder', function (accounts) {
             1,
             2,
             accounts[0],
-            [ 0x01 ],
-            [ 0x02 ],
+            "0x01",
+            "0x02",
             "url"
         );
         
@@ -38,8 +38,8 @@ contract('ClaimHolder', function (accounts) {
         assert.equal(result[0], 1);
         assert.equal(result[1], 2);
         assert.equal(result[2], accounts[0]);
-        assert.equal(result[3], 1);
-        assert.equal(result[4], 2);
+        assert.equal(result[3], "0x01");
+        assert.equal(result[4], "0x02");
         assert.equal(result[5], "url");
     });
 });
