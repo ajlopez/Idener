@@ -7,6 +7,7 @@ Identity implementation for Ethereum/RSK. WIP.
 ### Identity
 
 - [Your robot needs a passport](https://www.wired.co.uk/article/robot-passport)
+- [Decentralized Identity and Pairwise Identifiers](https://letstalkbitcoin.com/blog/post/lets-talk-bitcoin-386-decentralized-identify-and-granular-identifiers)
 
 ### Ethereum Identity
 
