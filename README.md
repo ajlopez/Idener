@@ -24,6 +24,7 @@ Identity implementation for Ethereum/RSK. WIP.
 - [Power to the User: Accenture & Microsoft Are Changing Identity with Ethereum](https://www.coindesk.com/power-to-the-user-accenture-and-microsoft-are-changing-identity-with-ethereum)
 - [In the Scramble to Fix Digital Identity, uPort Is a Project to Watch](https://www.coindesk.com/scramble-fix-digital-identity-uport-project-watch)
 - [The Father of the ICO Is All About Identity Now](https://www.coindesk.com/forget-token-sales-the-father-of-the-ico-is-all-about-identity-now)
+- [uPort Specs](https://github.com/uport-project/specs)
 
 ### Blockchain Identity
 
