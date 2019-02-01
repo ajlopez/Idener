@@ -8,6 +8,8 @@ Identity implementation for Ethereum/RSK. WIP.
 
 - [Your robot needs a passport](https://www.wired.co.uk/article/robot-passport)
 - [Decentralized Identity and Pairwise Identifiers](https://letstalkbitcoin.com/blog/post/lets-talk-bitcoin-386-decentralized-identify-and-granular-identifiers)
+- [The Path to Self-Sovereign Identity](https://www.coindesk.com/path-self-sovereign-identity)
+- [Decentralized Identity Foundation](http://identity.foundation/)
 
 ### Ethereum Identity
 
@@ -19,6 +21,9 @@ Identity implementation for Ethereum/RSK. WIP.
 - [Blockchain allows a true digital identity based on reputation | Bernd Lapp | TEDxLausanne](https://www.youtube.com/watch?v=DT_I9VxwTlI&feature=youtu.be)
 - [ERC725 Proposed Changes](https://medium.com/@tyleryasaka/erc725-proposed-changes-ea2dc221136e)
 - [ERC: Lightweight Identity](https://github.com/ethereum/EIPs/issues/1056)
+- [Power to the User: Accenture & Microsoft Are Changing Identity with Ethereum](https://www.coindesk.com/power-to-the-user-accenture-and-microsoft-are-changing-identity-with-ethereum)
+- [In the Scramble to Fix Digital Identity, uPort Is a Project to Watch](https://www.coindesk.com/scramble-fix-digital-identity-uport-project-watch)
+- [The Father of the ICO Is All About Identity Now](https://www.coindesk.com/forget-token-sales-the-father-of-the-ico-is-all-about-identity-now)
 
 ### Blockchain Identity
 
