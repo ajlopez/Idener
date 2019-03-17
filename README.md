@@ -42,3 +42,8 @@ Identity implementation for Ethereum/RSK. WIP.
 - [Web of Trust](https://www.weboftrust.info/)
 - [The Path to Self-Sovereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)
 - [Decentralized Identifiers (DIDs)](https://w3c-ccg.github.io/did-spec/)
+
+### Use cases
+
+- [Lessons learned: Enabling crypto bikes with the blockchain-powered ID](https://hackernoon.com/lessons-learned-enabling-crypto-bikes-with-the-blockchain-powered-id-fddb441b8277)
+
