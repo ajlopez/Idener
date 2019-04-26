@@ -10,6 +10,7 @@ Identity implementation for Ethereum/RSK. WIP.
 - [Decentralized Identity and Pairwise Identifiers](https://letstalkbitcoin.com/blog/post/lets-talk-bitcoin-386-decentralized-identify-and-granular-identifiers)
 - [The Path to Self-Sovereign Identity](https://www.coindesk.com/path-self-sovereign-identity)
 - [Decentralized Identity Foundation](http://identity.foundation/)
+- [Verifying Identity as a Social Intersection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3375436)
 
 ### Ethereum Identity
 
