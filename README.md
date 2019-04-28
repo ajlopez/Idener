@@ -11,6 +11,7 @@ Identity implementation for Ethereum/RSK. WIP.
 - [The Path to Self-Sovereign Identity](https://www.coindesk.com/path-self-sovereign-identity)
 - [Decentralized Identity Foundation](http://identity.foundation/)
 - [Verifying Identity as a Social Intersection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3375436)
+- [Some Reflections About Identity and Security Tokens: Part I](https://hackernoon.com/some-reflections-about-identity-and-security-tokens-part-i-e9ed2da93a6b)
 
 ### Ethereum Identity
 
