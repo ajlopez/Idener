@@ -13,6 +13,7 @@ Identity implementation for Ethereum/RSK. WIP.
 - [Verifying Identity as a Social Intersection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3375436)
 - [Some Reflections About Identity and Security Tokens: Part I](https://hackernoon.com/some-reflections-about-identity-and-security-tokens-part-i-e9ed2da93a6b)
 - [Identity: The Elephant in the Enterprise Blockchain Room](https://hackernoon.com/identity-the-elephant-in-the-enterprise-blockchain-room-6f31ed8d4132)
+- [Smart use of Blockchain Technology can Fix the Internet’s Lack of Trust](https://hackernoon.com/smart-use-of-blockchain-technology-can-fix-the-internets-lack-of-trust-bbf8b224efc2)
 
 ### Ethereum Identity
 
