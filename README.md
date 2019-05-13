@@ -15,6 +15,8 @@ Identity implementation for Ethereum/RSK. WIP.
 - [Identity: The Elephant in the Enterprise Blockchain Room](https://hackernoon.com/identity-the-elephant-in-the-enterprise-blockchain-room-6f31ed8d4132)
 - [Smart use of Blockchain Technology can Fix the Internet’s Lack of Trust](https://hackernoon.com/smart-use-of-blockchain-technology-can-fix-the-internets-lack-of-trust-bbf8b224efc2)
 - [Microsoft Launches Decentralized Identity Tool on Bitcoin Blockchain](https://www.coindesk.com/microsoft-launches-decentralized-identity-tool-on-bitcoin-blockchain)
+- [Toward scalable decentralized identifier systems](https://techcommunity.microsoft.com/t5/Azure-Active-Directory-Identity/Toward-scalable-decentralized-identifier-systems/ba-p/560168)
+- [Sidetree Protocol Specification](https://github.com/decentralized-identity/sidetree/blob/master/docs/protocol.md)
 
 ### Ethereum Identity
 
