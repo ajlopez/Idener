@@ -49,6 +49,7 @@ Identity implementation for Ethereum/RSK. WIP.
 - [Web of Trust](https://www.weboftrust.info/)
 - [The Path to Self-Sovereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)
 - [Decentralized Identifiers (DIDs)](https://w3c-ccg.github.io/did-spec/)
+- [Announcing Hyperledger Aries, infrastructure supporting interoperable identity solutions](https://www.hyperledger.org/blog/2019/05/14/announcing-hyperledger-aries-infrastructure-supporting-interoperable-identity-solutions)
 
 ### Use cases
 
