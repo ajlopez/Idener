@@ -17,6 +17,7 @@ Identity implementation for Ethereum/RSK. WIP.
 - [Microsoft Launches Decentralized Identity Tool on Bitcoin Blockchain](https://www.coindesk.com/microsoft-launches-decentralized-identity-tool-on-bitcoin-blockchain)
 - [Toward scalable decentralized identifier systems](https://techcommunity.microsoft.com/t5/Azure-Active-Directory-Identity/Toward-scalable-decentralized-identifier-systems/ba-p/560168)
 - [Sidetree Protocol Specification](https://github.com/decentralized-identity/sidetree/blob/master/docs/protocol.md)
+- [Self Sovereign Identity Promises to Return The Power of Personal Data Protection to the People](https://hackernoon.com/self-sovereign-identity-promises-to-return-the-power-of-personal-data-protection-to-the-people-75798eea7199)
 
 ### Ethereum Identity
 
