@@ -17,11 +17,10 @@ Identity implementation for Ethereum/RSK. WIP.
 - [Microsoft Launches Decentralized Identity Tool on Bitcoin Blockchain](https://www.coindesk.com/microsoft-launches-decentralized-identity-tool-on-bitcoin-blockchain)
 - [Toward scalable decentralized identifier systems](https://techcommunity.microsoft.com/t5/Azure-Active-Directory-Identity/Toward-scalable-decentralized-identifier-systems/ba-p/560168)
 - [Sidetree Protocol Specification](https://github.com/decentralized-identity/sidetree/blob/master/docs/protocol.md)
-<<<<<<< HEAD
 - [Dan Larimer's Unique ID Solution Revealed in Block.one Patent!](https://www.youtube.com/watch?v=sF8ZQMGHZMw)
-=======
 - [Self Sovereign Identity Promises to Return The Power of Personal Data Protection to the People](https://hackernoon.com/self-sovereign-identity-promises-to-return-the-power-of-personal-data-protection-to-the-people-75798eea7199)
->>>>>>> 401425d54b85fe5b5f641d5853e0283cbc975d72
+- [Use Cases for Decentralized Identifiers](https://w3c-ccg.github.io/did-use-cases/)
+- [Decentralized Identifier Working Group Charter](https://www.w3.org/2019/09/did-wg-charter.html)
 
 ### Ethereum Identity
 
@@ -53,6 +52,10 @@ Identity implementation for Ethereum/RSK. WIP.
 - [Self-sovereign Identity](https://www.bundesblock.de/wp-content/uploads/2018/10/ssi-paper.pdf)
 - [Web of Trust](https://www.weboftrust.info/)
 - [The Path to Self-Sovereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)
+- [Identity Management with Blockchain: The Definitive Guide (2019 Update)](https://tykn.tech/identity-management-blockchain/)
+
+### Decentralized Identifier
+
 - [Decentralized Identifiers (DIDs)](https://w3c-ccg.github.io/did-spec/)
 - [Announcing Hyperledger Aries, infrastructure supporting interoperable identity solutions](https://www.hyperledger.org/blog/2019/05/14/announcing-hyperledger-aries-infrastructure-supporting-interoperable-identity-solutions)
 
