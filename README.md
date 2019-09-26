@@ -53,6 +53,7 @@ Identity implementation for Ethereum/RSK. WIP.
 - [Web of Trust](https://www.weboftrust.info/)
 - [The Path to Self-Sovereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)
 - [Identity Management with Blockchain: The Definitive Guide (2019 Update)](https://tykn.tech/identity-management-blockchain/)
+- [Got ID? New Projects Explore Blockchain Identity Systems](https://cointelegraph.com/news/got-id-new-projects-explore-blockchain-identity-systems)
 
 ### Decentralized Identifier
 
