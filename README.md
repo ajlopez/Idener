@@ -22,6 +22,7 @@ Identity implementation for Ethereum/RSK. WIP.
 - [Self Sovereign Identity Promises to Return The Power of Personal Data Protection to the People](https://hackernoon.com/self-sovereign-identity-promises-to-return-the-power-of-personal-data-protection-to-the-people-75798eea7199)
 - [Use Cases for Decentralized Identifiers](https://w3c-ccg.github.io/did-use-cases/)
 - [Decentralized Identifier Working Group Charter](https://www.w3.org/2019/09/did-wg-charter.html)
+- [Best of both worlds: Identity based blockchain transactions](https://medium.com/@pekkakaipio/best-of-both-worlds-identity-based-blockchain-transactions-66d7d054a7b2)
 
 ### Ethereum Identity
 
