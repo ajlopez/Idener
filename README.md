@@ -23,6 +23,7 @@ Identity implementation for Ethereum/RSK. WIP.
 - [Use Cases for Decentralized Identifiers](https://w3c-ccg.github.io/did-use-cases/)
 - [Decentralized Identifier Working Group Charter](https://www.w3.org/2019/09/did-wg-charter.html)
 - [Best of both worlds: Identity based blockchain transactions](https://medium.com/@pekkakaipio/best-of-both-worlds-identity-based-blockchain-transactions-66d7d054a7b2)
+- [Identification on blockchain: what you need to know about Digital ID](https://medium.com/letknownews/identification-on-blockchain-what-you-need-to-know-about-digital-id-6774508dca9a)
 
 ### Ethereum Identity
 
