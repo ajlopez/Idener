@@ -41,6 +41,7 @@ Identity implementation for Ethereum/RSK. WIP.
 - [uPort Specs](https://github.com/uport-project/specs)
 - [Identity Standards on the Ethereum Blockchain ERC725/ERC735](https://chubbydeveloper.com/index.php/2019/02/24/identity-standards-on-the-ethereum-blockchain/)
 - [Blockchain ID Startup Metadium Reveals Partnership With Game Engine Giant Unity](https://cointelegraph.com/news/blockchain-id-startup-metadium-reveals-partnership-with-game-engine-giant-unity)
+- [ERC: Lightweight Identity #1056](https://github.com/ethereum/EIPs/issues/1056)
 
 ### Blockchain Identity
 
