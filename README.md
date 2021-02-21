@@ -60,6 +60,7 @@ Identity implementation for Ethereum/RSK. WIP.
 - [Identity Management with Blockchain: The Definitive Guide (2019 Update)](https://tykn.tech/identity-management-blockchain/)
 - [Got ID? New Projects Explore Blockchain Identity Systems](https://cointelegraph.com/news/got-id-new-projects-explore-blockchain-identity-systems)
 - [Blockchain technology, financial and self-sovereign digital identities](https://cointelegraph.com/news/blockchain-technology-financial-and-self-sovereign-digital-identities)
+- [Full decentralization of Hyperledger Fabric through embedded IoT solutions](https://www.hyperledger.org/blog/2021/02/17/full-decentralization-of-hyperledger-fabric-through-embedded-iot-solutions)
 
 ### Decentralized Identifier
 
