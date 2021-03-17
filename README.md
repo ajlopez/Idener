@@ -26,6 +26,7 @@ Identity implementation for Ethereum/RSK. WIP.
 - [Identification on blockchain: what you need to know about Digital ID](https://medium.com/letknownews/identification-on-blockchain-what-you-need-to-know-about-digital-id-6774508dca9a)
 - [Identity Projects](https://twitter.com/owocki/status/1366822170513448965)
 - [Hyperledger Aries Graduates To Active Status; Joins Indy As “Production Ready” Hyperledger Projects for Decentralized Identity](https://www.hyperledger.org/blog/2021/02/26/hyperledger-aries-graduates-to-active-status-joins-indy-as-production-ready-hyperledger-projects-for-decentralized-identity)
+- [Express DID Authentication](https://github.com/rsksmart/express-did-auth)
 
 ### Ethereum Identity
 
